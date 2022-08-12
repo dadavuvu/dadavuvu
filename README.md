@@ -1,5 +1,5 @@
 <img src="http://banhammer.kro.kr/iconcircle.png" alt="망치봇 프사" width="300"/>
-## 망치봇
+# 망치봇
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbanhammer.kro.kr&count_bg=%2379C83D&title_bg=%23555555&icon=discord.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false"/><br><br>
 [초대하기](https://banhammer.kro.kr/invite) | [웹사이트](https://banhammer.kro.kr)<br><br>
 디스코드 서버에 생기를 불어넣다
